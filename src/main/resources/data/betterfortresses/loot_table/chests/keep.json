@@ -288,7 +288,7 @@
               "function": "minecraft:set_damage"
             }
           ],
-          "name": "minecraft:chainmail_helmet"
+          "name": "minecraft:iron_chainmail_helmet"
         },
         {
           "type": "minecraft:item",
@@ -309,7 +309,7 @@
               "function": "minecraft:set_damage"
             }
           ],
-          "name": "minecraft:chainmail_helmet"
+          "name": "minecraft:iron_chainmail_helmet"
         },
         {
           "type": "minecraft:item",
@@ -399,7 +399,7 @@
               "function": "minecraft:set_damage"
             }
           ],
-          "name": "minecraft:chainmail_chestplate"
+          "name": "minecraft:iron_chainmail_chestplate"
         },
         {
           "type": "minecraft:item",
@@ -420,7 +420,7 @@
               "function": "minecraft:set_damage"
             }
           ],
-          "name": "minecraft:chainmail_chestplate"
+          "name": "minecraft:iron_chainmail_chestplate"
         },
         {
           "type": "minecraft:item",
@@ -510,7 +510,7 @@
               "function": "minecraft:set_damage"
             }
           ],
-          "name": "minecraft:chainmail_leggings"
+          "name": "minecraft:iron_chainmail_leggings"
         },
         {
           "type": "minecraft:item",
@@ -531,7 +531,7 @@
               "function": "minecraft:set_damage"
             }
           ],
-          "name": "minecraft:chainmail_leggings"
+          "name": "minecraft:iron_chainmail_leggings"
         },
         {
           "type": "minecraft:item",
@@ -621,7 +621,7 @@
               "function": "minecraft:set_damage"
             }
           ],
-          "name": "minecraft:chainmail_boots"
+          "name": "minecraft:iron_chainmail_boots"
         },
         {
           "type": "minecraft:item",
@@ -642,7 +642,7 @@
               "function": "minecraft:set_damage"
             }
           ],
-          "name": "minecraft:chainmail_boots"
+          "name": "minecraft:iron_chainmail_boots"
         },
         {
           "type": "minecraft:item",
